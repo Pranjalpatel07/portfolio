@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Pranjal Patel — Developer Portfolio 🚀
 
-## Getting Started
+A modern, animated, dark-themed personal portfolio showcasing full-stack web applications, microservices, and multi-agent AI systems.
 
-First, run the development server:
+🌐 **Live Demo:** [https://porfolio-khaki-two.vercel.app](https://porfolio-khaki-two.vercel.app)
 
+---
+
+## ✨ Features
+
+- **Dark Modern Aesthetic:** Obsidian/deep-slate palette with glassmorphism, glowing accents, and ambient radial gradients.
+- **Interactive Tech Bubble Cloud:** Floating tech bubbles with official SVG logos, interactive category filters, and hover glow effects.
+- **Full Mobile Responsiveness:** Clean layout with a mobile slide-down menu drawer, responsive fluid typography, and touch-optimized buttons.
+- **Interactive Project Showcase:** Filterable projects (All, AI & Multi-Agent, Full-Stack Web) with live demo and GitHub repository links.
+- **Resume Integration:** Attached resume PDF directly viewable and downloadable from the header, hero section, and profile summary.
+- **Ambient Snow Effect:** Custom ambient particles powered by `falling-snow` with an interactive on/off toggle button in the navbar.
+- **1-Click Actions:** Instant clipboard email copying with visual feedback and direct communication links.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework:** [Next.js](https://nextjs.org/) (App Router, React 19)
+- **Styling:** [Tailwind CSS v4](https://tailwindcss.com/)
+- **Animations:** Pure CSS keyframes (drifting float physics, glowing pulses, and gradient shifts)
+- **Icons & Graphics:** Custom inline SVG tech logos and iconography
+- **Deployment:** [Vercel](https://vercel.com/)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/Pranjalpatel07/fun2.git
+cd fun2
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2. Install dependencies
+```bash
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 3. Run the development server
+```bash
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the portfolio.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 📬 Contact & Connect
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Portfolio:** [https://porfolio-khaki-two.vercel.app](https://porfolio-khaki-two.vercel.app)
+- **Email:** [pranjalpatel8827@gmail.com](mailto:pranjalpatel8827@gmail.com)
+- **GitHub:** [@Pranjalpatel07](https://github.com/Pranjalpatel07)
+- **LinkedIn:** [Pranjal Patel](https://linkedin.com/in/pranjal-patel-36a12b33b)
